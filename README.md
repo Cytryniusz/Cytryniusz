@@ -79,7 +79,7 @@ reproducible, end-to-end pipelines rather than one-off scripts.
 | --- | --- |
 | 🏔️ **[mtb-trail-reconstruction](https://github.com/Cytryniusz/mtb-trail-reconstruction)** | End-to-end pipeline: LiDAR + GPS + aerial imagery → Unity-ready 3D MTB trail scene *(engineering thesis)* |
 | 📦 **[Best-parcel-lockers-location](https://github.com/Cytryniusz/Best-parcel-lockers-location)** | Spatial optimization for parcel-locker placement |
-| 🏎️ **[Detekcja_torow_F1](https://github.com/Cytryniusz/Detekcja_torow_F1)** | F1 track detection — collaboration with [@Piotr Pawlus] |
+| 🏎️ **[Detekcja_torow_F1](https://github.com/Cytryniusz/Detekcja_torow_F1)** | F1 track detection |
 | 🌦️ **[App-for-meteorologic-data](https://github.com/Cytryniusz/App-for-meteorologic-data)** | Application for working with meteorological data |
 | 🚴 **[BikAir](https://github.com/Cytryniusz/BikAir)** | Web project (HTML) |
 
