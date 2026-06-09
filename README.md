@@ -14,15 +14,7 @@
 
 ### 👋 About me
 
-Geoinformatics student turning **LiDAR, GPS and aerial imagery** into clean, game-ready 3D scenes.
-I work at the intersection of **GIS, point-cloud processing, photogrammetry and AI** — building
-reproducible, end-to-end pipelines rather than one-off scripts.
-
-- 🛰️ Currently: hybrid **Gaussian Splatting + LiDAR** 3D reconstruction
-- 🎓 Engineering thesis (2026): MTB trail reconstruction pipeline
-- 🧰 Comfortable across **PL / EN** technical documentation
-
----
+Geoinformatics student. I work at the intersection of **GIS, AI, point-cloud processing, photogrammetry, web app development, computer vision**.
 
 ### ⭐ My go-to stack
 
